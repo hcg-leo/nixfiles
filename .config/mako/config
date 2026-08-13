@@ -1,0 +1,25 @@
+text-color=#c9cad1
+progress-color=#707389
+border-color=#939BC6
+default-timeout=4000
+background-color=#272c48
+width=360
+height=150
+padding=16
+margin=12
+border-size=1
+border-radius=0
+outer-margin=10
+anchor=top-right
+layer=overlay
+font=SF Mono Nerd Font 10
+
+[app-name=Spotify]
+invisible=1
+
+[mode=do-not-disturb]
+invisible=true
+
+[mode=do-not-disturb app-name=notify-send]
+invisible=false
+
